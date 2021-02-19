@@ -1,0 +1,1 @@
+# Projetos feito com node puro e/ou algumas libs
